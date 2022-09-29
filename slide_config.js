@@ -4,7 +4,7 @@ SLIDE_CONFIG = {
     settings: {
 
         title: 'DESARROLLO DE APLICACIONES WEB. CPIFP Los Enlaces',
-        subtitle: 'Presentación del ciclo, curso 2019-2020 <br /> Modalidad Distancia ',
+        subtitle: 'Presentación del ciclo, curso 2021-2022 <br /> Modalidad Distancia ',
         other: 'LA educación a distancia: todo un reto ',
 //    eventInfo: {
 //      title: 'ITERNOVA',
